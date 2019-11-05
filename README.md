@@ -11,4 +11,4 @@ Homework
 ### 8. [coffee](https://straus94.github.io/home-8-coffee/) / [news](https://straus94.github.io/home-8-news/)
 ### 9. [text](https://straus94.github.io/home-9-text/) / [News editor](https://straus94.github.io/home-9-news-editor/)
 ### 10. [blog](https://straus94.github.io/home-10-blog/) / [who we are](https://straus94.github.io/home-10-whoweare/)
-### 11. [cahee](https://straus94.github.io/home-11-cahee/) /
+### 11. [cahee](https://straus94.github.io/home-11-cahee/) / [nike](https://straus94.github.io/home-11-nike/)
