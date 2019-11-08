@@ -13,3 +13,4 @@ Homework
 ### 10. [blog](https://straus94.github.io/home-10-blog/) / [who we are](https://straus94.github.io/home-10-whoweare/)
 ### 11. [cahee](https://straus94.github.io/home-11-cahee/) / [nike](https://straus94.github.io/test-repo-nike/)
 ### 12. [contact](https://straus94.github.io/home-12-contact/) / [sing in](https://straus94.github.io/home-12-sing-in/)
+### 13. [design lab](https://straus94.github.io/home-13/)
