@@ -18,3 +18,4 @@ Homework
 ### 15. [adaptive cashee](https://straus94.github.io/home-15-adaptive/)
 ### 16. [cross](https://straus94.github.io/home-cross/)
 ### 21. [start js](https://straus94.github.io/home-21/)
+### 22. [data type](https://straus94.github.io/home-js-22/)
