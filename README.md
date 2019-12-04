@@ -19,3 +19,4 @@ Homework
 ### 16. [cross](https://straus94.github.io/home-cross/)
 ### 21. [start js](https://straus94.github.io/home-21/)
 ### 22. [data type](https://straus94.github.io/home-js-22/)
+### 23. [for do while](https://straus94.github.io/home-24-js/)
