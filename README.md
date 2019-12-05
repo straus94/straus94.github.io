@@ -20,3 +20,4 @@ Homework
 ### 21. [start js](https://straus94.github.io/home-21/)
 ### 22. [data type](https://straus94.github.io/home-js-22/)
 ### 23. [for do while](https://straus94.github.io/home-24-js/)
+### 24. [js function](https://straus94.github.io/home-25-func/)
