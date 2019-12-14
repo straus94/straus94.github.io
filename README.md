@@ -22,3 +22,4 @@ Homework
 ### 23. [for do while](https://straus94.github.io/home-24-js/)
 ### 24. [js function](https://straus94.github.io/home-25-func/)
 ### 27. [js cycles](https://straus94.github.io/home-27-cycles/)
+### 28. [js classes](https://straus94.github.io/home-28-classes/)
