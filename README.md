@@ -24,3 +24,4 @@ Homework
 ### 27. [js cycles](https://straus94.github.io/home-27-cycles/)
 ### 28. [js classes](https://straus94.github.io/home-28-classes/)
 ### 30. [events](https://straus94.github.io/home-31/)
+### 31. [jquery](https://straus94.github.io/home-32-jquery/)
